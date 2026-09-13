@@ -1,0 +1,12 @@
+node_modules
+.next
+.env*
+!.env.example
+playwright-report
+test-results
+*.tsbuildinfo
+supabase/.temp/
+supabase/.branches/
+.lighthouseci/
+
+.next-preview/
